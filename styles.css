@@ -1,0 +1,22 @@
+*{
+    color : black;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+h1 , h2 {
+    background-color: aliceblue;
+}
+
+.lasagna ul {
+    color : grey;
+}
+
+.return {
+    text-align: center;
+    color : purple;
+}
+
+.home{
+    height : auto;
+    width : 400px;
+}
