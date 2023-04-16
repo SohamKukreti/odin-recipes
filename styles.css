@@ -1,10 +1,16 @@
 *{
     color : black;
+    text-align: center;
+    background-color: whitesmoke;
     font-family: 'Courier New', Courier, monospace;
 
 }
 h1 , h2 {
-    background-color: aliceblue;
+    background-color: white;
+}
+
+h1{
+    font-size: 48px;
 }
 
 .lasagna ul {
